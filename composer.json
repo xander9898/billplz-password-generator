@@ -1,0 +1,15 @@
+{
+    "name": "xander/billplz-password",
+    "autoload": {
+        "psr-4": {
+            "Xander\\BillplzPassword\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xander Tan",
+            "email": "xanderthemaster@gmail.com"
+        }
+    ],
+    "require": {}
+}
